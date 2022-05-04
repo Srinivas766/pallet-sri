@@ -5,7 +5,7 @@ edition = '2018'
 homepage = 'https://substrate.dev'
 license = 'Unlicense'
 name = 'pallet-sri'
-repository = 'https://github.com/Srinivas766/pallet-sri'
+repository = 'https://github.com/Srinivas766/pallet-sri/'
 version = '3.0.0'
 
 [package.metadata.docs.rs]
